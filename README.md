@@ -17,12 +17,13 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 - S Dhanusha
 
 ## Files Included
+
 - Data
-  - _intakes.csv_ 
-  - _outcomes.csv_ 
+  - _intakes.csv_
+  - _outcomes.csv_
   - _stray_map.csv_
 - _SC1015 Slides.pdf_ - presentation slides for our project
-- EDA.ipynb
+- _EDA.ipynb_
 - _Features.csv_
   - Cleaning and preparation
   - Basic visualisation
@@ -133,3 +134,6 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 ## References
 
 - https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics
+- https://youtu.be/ZVR2Way4nwQ
+- https://youtu.be/v6VJ2RO66Ag
+- https://youtu.be/y9TSkMIOorY
