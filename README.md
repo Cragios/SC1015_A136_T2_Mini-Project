@@ -23,7 +23,7 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
   - _stray_map.csv_
 - _SC1015 Slides.pdf_ - presentation slides for our project
 - EDA.ipynb
--_Features.csv_
+- _Features.csv_
   - Cleaning and preparation
   - Basic visualisation
   - Exploratory data analysis
