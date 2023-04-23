@@ -18,8 +18,8 @@ For our mini project in the Introduction to Data Science and Artificial Intellig
 
 ## Files Included
 
-- _intakes.csv_ - dataset
-- _outcomes.csv_ - dataset
+- _intakes.csv_ - Data
+- _outcomes.csv_ - Data
 - _SC1015 Slides.pdf_ - presentation slides for our project
 - _SC1015 EDA.ipynb_
   - Cleaning and preparation
